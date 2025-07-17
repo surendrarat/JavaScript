@@ -20,7 +20,7 @@ const obj=new Object();
 
    obj.person="this is the best ";
     obj.go="come on";
-    console.log();
     
-    console.log(`this is ${3*4}`+obj.person);
+    
+    console.log(`this is ${3*4}`+obj);
     
