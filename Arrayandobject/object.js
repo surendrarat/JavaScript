@@ -20,3 +20,5 @@ const obj=new Object();
 
     person:"this is the best ";
     go:"come on";
+    console.log(obj);
+    
