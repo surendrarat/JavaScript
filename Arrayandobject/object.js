@@ -24,3 +24,8 @@ const obj=new Object();
     
     console.log(`this is ${3*4}`+obj);
     
+
+    //inbuild object
+    const all=new Date();
+    console.log(all);
+    
