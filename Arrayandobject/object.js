@@ -18,7 +18,7 @@ console.log(gamechanger.lastName)
 
 const obj=new Object();
 
-    person:"this is the best ";
-    go:"come on";
+   obj.person="this is the best ";
+    obj.go="come on";
     console.log(obj);
     
