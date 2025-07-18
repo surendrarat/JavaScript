@@ -3,7 +3,7 @@ console.log("hello this,\n is sting");//for new line
 //escape some special or like '' "" and many and throw a error so use \ before the any non endquates.
 console.log("this is the example of escape \"another value of string\" and \'this is also example of these'")
 
-// templete literals and manipulation (` `)
+// templete literals and string interpolation (` `)
 let name="heelo";
 let age=34;
 let message = `My name is ${name} and I am ${age} years old.`;
