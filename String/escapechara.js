@@ -7,9 +7,7 @@ console.log("this is the example of escape \"another value of string\" and \'thi
 let name="heelo";
 let age=34;
 let message = `My name is ${name} and I am ${age} years old.`;
-console.log(
-message
-);
+console.log(message);
 // without \n add new line
 let poem = `Roses are red,
 Violets are blue,
